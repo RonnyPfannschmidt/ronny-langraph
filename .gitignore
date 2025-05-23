@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+uv.lock
+
+# Environments
+.env
+.venv
+env/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+.langgraph_api/
+.idea/
+

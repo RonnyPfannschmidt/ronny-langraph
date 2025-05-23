@@ -1,0 +1,8 @@
+ {
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "ronny_langraph.agent:graph"
+  },
+  "env": ".env",
+   "recursion_limit": 100
+}
